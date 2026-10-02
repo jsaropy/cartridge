@@ -2,7 +2,11 @@
 Cartridge
 ----------
 
-Cartridge is an industrial software system. It detects anomalies in object or products in production settings, and after detecting the anomalies it will activate a process. This process is at the hart of the system. The system will send a signal to an ESP32 microcontroller and make an LED blink on and off. The system makes use of a camera to detect the anomalies.
+Cartridge is an industrial software system. 
+It detects anomalies in object or products in production settings, 
+and after detecting the anomalies it will activate a process. 
+This process is at the hart of the system. 
+The system will send a signal to an ESP32 microcontroller and make an LED blink on and off. The system makes use of a camera to detect the anomalies.
 
 Quick start
 -----------
