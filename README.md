@@ -17,6 +17,10 @@ You can run it locally from the build directory on Linux:
 Requirements are in backend/CMakeLists.txt.
 Frontend is angular.
 
+Demo
+------------
+Find a working demo with your default webcam at:
+
 Contributing
 ------------
 This is a hobby project of mine, contributions to extend are possible just email me same to report a bug: 
