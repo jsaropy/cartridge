@@ -1,7 +1,6 @@
 ```
 Cartridge
 ----------
-
 Cartridge is an industrial software system. 
 It detects anomalies in object or products in production settings, 
 and after detecting the anomalies it will activate a process. 
@@ -12,7 +11,7 @@ The system makes use of a camera to detect the anomalies.
 Quick start
 -----------
 You can run it locally from the build directory on Linux:
-`./cartridge`
+./cartridge
 
 Requirements are in backend/CMakeLists.txt.
 Frontend is angular.
