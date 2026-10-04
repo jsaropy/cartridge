@@ -22,7 +22,8 @@ Find a working demo with your default webcam at:
 
 Contributing
 ------------
-This is a hobby project of mine, contributions to extend are possible just email me. Same for reporting a bug: 
+This is a hobby project of mine, contributions to extend are possible just email me. 
+Same for reporting a bug: 
 `spiracyj@gmail.com`
 
 ```
