@@ -1,5 +1,4 @@
 #include <camera.hpp>
-#include <iostream>
 
 bool Camera::turnon() {
     std::cout << "Camera turned on\n";
