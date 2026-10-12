@@ -5,7 +5,7 @@ class Camera {
     public:
         std::string name; 
 
-        std::string cameraname();
+        std::string getname();
         bool turnon();
         bool detect();
 };
