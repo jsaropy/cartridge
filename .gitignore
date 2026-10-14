@@ -10,3 +10,8 @@ frontend/.angular/
 
 #cpp
 backend/build/
+backend/CMakeCache.txt
+backend/CMakeFiles/
+backend/cmake_install.cmake
+backend/Makefile
+
