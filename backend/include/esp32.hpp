@@ -4,5 +4,8 @@ class Esp32 {
     public:
         bool led();
     private:
-        const std::string detectsignal = "detected";
+        bool detectsignal = false;
+        bool sendsignal();
+        bool startprocess();
+        bool stopprocess();
 };

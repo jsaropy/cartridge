@@ -1,11 +1,6 @@
 #include <camera.hpp>
 
-bool Camera::turnon() {
+bool Camera::cameraon() {
     std::cout << "Camera turned on\n";
-    return true;
-}
-
-bool Camera::detect() {
-    std::cout << "Camera detected object\n";
     return true;
 }
